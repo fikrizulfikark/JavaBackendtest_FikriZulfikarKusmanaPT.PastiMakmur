@@ -1,0 +1,31 @@
+Attendance
+{
+  "id": 1,
+  "userId": 1001,
+  "timestamp": "2024-05-31T08:30:00"
+}
+
+MataPelajaran
+
+{
+  "id": 1,
+  "name": "Matematika"
+}
+
+Penilaian
+
+{
+  "id": 1,
+  "userId": 1001,
+  "mataPelajaranId": 1,
+  "nilai": 85.5
+}
+
+User
+
+{
+  "id": 1,
+  "userId": 1001,
+  "mataPelajaranId": 1,
+  "nilai": 85.5
+}
